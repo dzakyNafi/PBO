@@ -1,0 +1,5 @@
+[2026-06-24 01:29:58] Membaca file CSV: lokasi_semarang.csv
+[2026-06-24 01:29:58] Berhasil membuat 13 objek lokasi.
+[2026-06-24 01:29:58] [buat_peta_lokasi_folium] Mulai membuat peta: peta_interaktif_semarang.html
+[2026-06-24 01:29:58] Konfigurasi peta berhasil dibaca: lat=-6.9929, lon=110.42, zoom=13
+[2026-06-24 01:29:58] Peta 'peta_interaktif_semarang.html' berhasil dibuat dengan 13 marker.
